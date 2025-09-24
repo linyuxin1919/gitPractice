@@ -1,6 +1,6 @@
 sally
 23
-tainan
+Tainan
 peihan
 23
 Taichung
